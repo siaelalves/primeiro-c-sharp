@@ -1,0 +1,11 @@
+D:\Projetos\C#\MyFirstApp\bin\Release\MyFirstApp.exe
+D:\Projetos\C#\MyFirstApp\bin\Release\MyFirstApp.pdb
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\WindowsFormsApplication1.frmMain.resources
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\MyFirstApp.Properties.Resources.resources
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\MyFirstApp.exe
+D:\Projetos\C#\MyFirstApp\obj\x86\Release\MyFirstApp.pdb
+D:\Projetos\C#\Concluídos\MyFirstApp\obj\x86\Release\MyFirstApp.exe
+D:\Projetos\C#\Concluídos\MyFirstApp\obj\x86\Release\MyFirstApp.pdb
